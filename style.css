@@ -83,7 +83,6 @@ span{
 }
 
 .profile-img > img{
-    margin: 1rem 0rem;
     border: #E33131 solid 5px;
     border-radius: 0%;
     
@@ -94,7 +93,7 @@ span{
 }
 
 #about-me > .container{
-    height: 90vh;
+    height: 80vh;
 }
 
 
@@ -142,7 +141,7 @@ span{
     .container-grid > .red{
         background-color: #E33131;
         grid-area: 1 / 1 / 1 / 3;
-        height: 70vh;
+        height: 375px;
         width: 90%;
     
     }
@@ -226,11 +225,11 @@ span{
         border: #E33131 solid 5px;
     }
 
+    #about-me > .container{
+        height: 50vh;
+    }
+
+
   }
 
-
-
-
-
-  
 
